@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object>
+	<name>OrangeMarmelade</name>
+	<surface_model>OrangeMarmelade_surfaceMdl.sfm</surface_model>
+	<mesh>OrangeMarmelade_Orig_tex.dae</mesh>
+	<rotation_model_type>1</rotation_model_type>
+	<model_orientation>0.0, 0.0, -1.0</model_orientation>
+	<diameter>0.122745</diameter>
+	<score3D>0.15</score3D>
+	<descriptor_models>
+		<descriptor_model>
+			<name>OrangeMarmelade_view_1.dsm</name>
+			<view_orientation>0, 0, -1</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>0</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-87, -75</corner_point>
+				<corner_point>81, -79</corner_point>
+				<corner_point>87, 54</corner_point>
+				<corner_point>-82, 63</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="1">0, -1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+		<descriptor_model>
+			<name>OrangeMarmelade_view_2.dsm</name>
+			<view_orientation>0.86599999999999999, 0, -0.5</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>0</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-85, -76</corner_point>
+				<corner_point>87, -78</corner_point>
+				<corner_point>85, 54</corner_point>
+				<corner_point>-81, 66</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="1">0, -1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+		<descriptor_model>
+			<name>OrangeMarmelade_view_3.dsm</name>
+			<view_orientation>0.86599999999999999, 0, 0.5</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>0</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-89, -84</corner_point>
+				<corner_point>83, -82</corner_point>
+				<corner_point>86, 62</corner_point>
+				<corner_point>-82, 69</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="1">0, -1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+		<descriptor_model>
+			<name>OrangeMarmelade_view_4.dsm</name>
+			<view_orientation>0, 0, 1</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>0</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-81, -81</corner_point>
+				<corner_point>77, -84</corner_point>
+				<corner_point>79, 56</corner_point>
+				<corner_point>-80, 69</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="1">0, -1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+		<descriptor_model>
+			<name>OrangeMarmelade_view_5.dsm</name>
+			<view_orientation>-0.86599999999999999, 0, 0.5</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>0</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-89, -82</corner_point>
+				<corner_point>80, -82</corner_point>
+				<corner_point>84, 57</corner_point>
+				<corner_point>-87, 68</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="1">0, -1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+		<descriptor_model>
+			<name>OrangeMarmelade_view_6.dsm</name>
+			<view_orientation>-0.86599999999999999, 0, -0.5</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>0</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-92, -89</corner_point>
+				<corner_point>81, -89</corner_point>
+				<corner_point>81, 65</corner_point>
+				<corner_point>-83, 72</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="1">0, -1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+	</descriptor_models>
+</object>
+

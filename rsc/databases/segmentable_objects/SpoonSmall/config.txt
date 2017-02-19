@@ -1,0 +1,4 @@
+name = SpoonSmall
+input_dimension = 4096
+target_dimension = 100
+number_of_samples = 9075

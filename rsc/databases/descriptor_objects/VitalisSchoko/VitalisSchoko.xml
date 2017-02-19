@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object>
+	<name>VitalisSchoko</name>
+	<surface_model>VitalisSchoko_surfaceMdl.sfm</surface_model>
+	<mesh>VitalisSchoko.dae</mesh>
+	<rotation_model_type>1</rotation_model_type>
+	<model_orientation>0.0, 0.0, -1.0</model_orientation>
+	<diameter>0.258904</diameter>
+	<score3D>0.15</score3D>
+	<descriptor_models>
+		<descriptor_model>
+			<name>VitalisSchoko_view_1.dsm</name>
+			<view_orientation>0, 0, -1</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>-10</vertical_texture_offset>
+			<horizontal_texture_offset>10</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-166, -192</corner_point>
+				<corner_point>159, -203</corner_point>
+				<corner_point>144, 191</corner_point>
+				<corner_point>-143, 194</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="180">0, 1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+		<descriptor_model>
+			<name>VitalisSchoko_view_2.dsm</name>
+			<view_orientation>1, 0, 0</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>-10</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-57, -185</corner_point>
+				<corner_point>63, -185</corner_point>
+				<corner_point>49, 193</corner_point>
+				<corner_point>-63, 190</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="180">0, 1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+		<descriptor_model>
+			<name>VitalisSchoko_view_3.dsm</name>
+			<view_orientation>0, 0, 1</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>-10</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-161, -188</corner_point>
+				<corner_point>160, -195</corner_point>
+				<corner_point>141, 178</corner_point>
+				<corner_point>-142, 185</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="180">0, 1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+		<descriptor_model>
+			<name>VitalisSchoko_view_4.dsm</name>
+			<view_orientation>-1, 0, 0</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>-10</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-65, -187</corner_point>
+				<corner_point>57, -187</corner_point>
+				<corner_point>60, 184</corner_point>
+				<corner_point>-56, 184</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="180">0, 1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+	</descriptor_models>
+</object>
+

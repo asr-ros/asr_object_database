@@ -1,0 +1,17 @@
+[1460985879,4295256] Start creation.
+[1460985879,4295671] Creating descriptor model (PowderedSugar_view_1.dsm) with params: depth = 11, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460985885,8109131] Descriptor model creation successful (PowderedSugar_view_1.dsm).
+[1460985885,8110323] Creating descriptor model (PowderedSugar_view_2.dsm) with params: depth = 11, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460985889,5929999] Descriptor model creation successful (PowderedSugar_view_2.dsm).
+[1460985889,5931125] Creating descriptor model (PowderedSugar_view_3.dsm) with params: depth = 11, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460985895,8313141] Descriptor model creation successful (PowderedSugar_view_3.dsm).
+[1460985895,8314605] Creating descriptor model (PowderedSugar_view_4.dsm) with params: depth = 11, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460985899,239172] Descriptor model creation successful (PowderedSugar_view_4.dsm).
+[1460985899,23945] XML-file successfully created.
+[1460985899,2394626] Creating surface model.
+[1460985900,1308048] Surface model successfully created.
+[1460985900,1354859] Copying mesh file.
+[1460985900,1438637] Mesh file successfully copied.
+[1460985900,1439061] Copying texture-file of mesh.
+[1460985900,2145689] Texture file successfully copied.
+[1460985900,2147844] Output files creation done.

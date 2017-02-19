@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration xmlns="http://xml.ralfschleicher.de/asr_object_database/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.ralfschleicher.de/asr_object_database/ ../xsd/ConfigurationXMLSchema.xsd">
+  <database>
+    <uniqueName>textured</uniqueName>
+    <basenameMatchPattern>.*</basenameMatchPattern>
+    <objectDbRootFolder>package://asr_object_database/rsc/databases/textured_objects/</objectDbRootFolder>
+  </database>
+  <database>
+    <uniqueName>segmentable</uniqueName>
+    <basenameMatchPattern>.*</basenameMatchPattern>
+    <objectDbRootFolder>package://asr_object_database/rsc/databases/segmentable_objects/</objectDbRootFolder>
+  </database>
+  <database>
+    <uniqueName>descriptor</uniqueName>
+    <basenameMatchPattern>.*</basenameMatchPattern>
+    <objectDbRootFolder>package://asr_object_database/rsc/databases/descriptor_objects/</objectDbRootFolder>
+  </database>
+   <database>
+    <uniqueName>marker</uniqueName>
+    <basenameMatchPattern>.*</basenameMatchPattern>
+    <objectDbRootFolder>package://asr_object_database/rsc/databases/marker/</objectDbRootFolder>
+  </database>
+</configuration>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object>
+	<name>Smacks</name>
+	<surface_model>Smacks_surfaceMdl.sfm</surface_model>
+	<mesh>Smacks.dae</mesh>
+	<rotation_model_type>1</rotation_model_type>
+	<model_orientation>0.0, 0.0, -1.0</model_orientation>
+	<diameter>0.33876</diameter>
+	<score3D>0.15</score3D>
+	<descriptor_models>
+		<descriptor_model>
+			<name>Smacks_view_1.dsm</name>
+			<view_orientation>0, 0, -1</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>0</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-250, -247</corner_point>
+				<corner_point>239, -252</corner_point>
+				<corner_point>199, 253</corner_point>
+				<corner_point>-215, 258</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="180">0, 1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+		<descriptor_model>
+			<name>Smacks_view_2.dsm</name>
+			<view_orientation>1, 0, 0</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>0</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-81, -243</corner_point>
+				<corner_point>80, -245</corner_point>
+				<corner_point>61, 244</corner_point>
+				<corner_point>-77, 240</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="180">0, 1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+		<descriptor_model>
+			<name>Smacks_view_3.dsm</name>
+			<view_orientation>0, 0, 1</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>-20</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-242, -247</corner_point>
+				<corner_point>234, -254</corner_point>
+				<corner_point>200, 253</corner_point>
+				<corner_point>-219, 253</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="180">0, 1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+		<descriptor_model>
+			<name>Smacks_view_4.dsm</name>
+			<view_orientation>-1, 0, 0</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>0</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-84, -244</corner_point>
+				<corner_point>84, -248</corner_point>
+				<corner_point>74, 255</corner_point>
+				<corner_point>-65, 252</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="180">0, 1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+	</descriptor_models>
+</object>
+

@@ -1,0 +1,17 @@
+[1454337307.3656423] Start creation.
+[1454337307.3657072] Creating descriptor model (Smacks_view_1.dsm) with params: depth = 9, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1454337355.0917647] Descriptor model creation successful (Smacks_view_1.dsm).
+[1454337355.0918825] Creating descriptor model (Smacks_view_2.dsm) with params: depth = 8, fern-number = 50, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1454337377.82356] Descriptor model creation successful (Smacks_view_2.dsm).
+[1454337377.8236611] Creating descriptor model (Smacks_view_3.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1454337420.7199929] Descriptor model creation successful (Smacks_view_3.dsm).
+[1454337420.7200994] Creating descriptor model (Smacks_view_4.dsm) with params: depth = 8, fern-number = 50, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1454337445.1627755] Descriptor model creation successful (Smacks_view_4.dsm).
+[1454337445.1654737] XML-file successfully created.
+[1454337445.1655092] Creating surface model.
+[1454337446.9829617] Surface model successfully created.
+[1454337446.9895649] Copying mesh file.
+[1454337447.2060513] Mesh file successfully copied.
+[1454337447.2061305] Copying texture-file of mesh.
+[1454337447.4842558] Texture file successfully copied.
+[1454337447.4843323] Output files creation done.

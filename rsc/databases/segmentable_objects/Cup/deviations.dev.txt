@@ -1,0 +1,8 @@
+#Position: x,y,z
+0.03
+0.03
+0.03
+#Rotation: alpha, beta, gamma
+0.0
+0.0
+45.0

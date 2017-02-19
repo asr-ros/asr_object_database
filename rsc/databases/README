@@ -1,0 +1,12 @@
+To create .wrl files from .iv files use ivvrml(.exe) -2 file.iv -o file.wrl or use the batch script iv_to_wrl.py.
+To create a .dae file from the .wrl file use MeshLab.
+
+To normalize pose of object mesh use MeshLab as following:
+   - Center of object bounding box must be equivalent to origin of mesh. Mesh axes must be aligned to bounding box axes.
+   - Show current mesh dimensions around coordinate origin with "Render/ShowQuotedBox".
+     - Calculate unsigned values of misalignment from values at the ends of axes: Following must hold: p_min = p_max for all p \in {x,y,z}.
+   - Sign of displacement is estimated by using "Render/ShowAxes".
+     - Axes arrows show positive "direction" for transformation. Now we can descriminate p_min from p_max.
+     - Calculate correction terms: (p_min + p_max)/2 - p_max for all p \in {x,y,z}.
+   - Apply these correction terms using "Filters/Normals, Curvatures and Orientation/Transform: Move, Translate, Center".
+     - Freeze Matrix must be set. Otherwise not the mesh is transformed. Instead a transformation is set in the project that cannot be exported to either .dae or .obj.

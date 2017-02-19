@@ -1,0 +1,31 @@
+#Inventor V2.0 ascii
+
+Separator{
+	RotationXYZ{
+		axis Z
+		angle 1.5708
+	}
+	File{
+		name "ketchup_flasche.iv"
+	}
+}
+Separator{
+	Transform{
+		translation 0 0.116 0
+	}
+	RotationXYZ{
+		axis X
+		angle 1.5708
+	}
+	File{
+		name "ketchup_deckel.iv"
+	}
+}
+Separator{
+	Transform{
+		translation 0 0.127 0
+	}
+	File{
+		name "ketchup_kappe.iv"
+	}
+}

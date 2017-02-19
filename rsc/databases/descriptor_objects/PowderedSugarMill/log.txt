@@ -1,0 +1,21 @@
+[1460989543,2101052] Start creation.
+[1460989543,2101462] Creating descriptor model (PowderedSugarMill_view_1.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460989549,2297962] Descriptor model creation successful (PowderedSugarMill_view_1.dsm).
+[1460989549,2299142] Creating descriptor model (PowderedSugarMill_view_2.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460989554,9123344] Descriptor model creation successful (PowderedSugarMill_view_2.dsm).
+[1460989554,9124441] Creating descriptor model (PowderedSugarMill_view_3.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460989560,4133186] Descriptor model creation successful (PowderedSugarMill_view_3.dsm).
+[1460989560,4134281] Creating descriptor model (PowderedSugarMill_view_4.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460989565,3113036] Descriptor model creation successful (PowderedSugarMill_view_4.dsm).
+[1460989565,31141] Creating descriptor model (PowderedSugarMill_view_5.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460989570,3085272] Descriptor model creation successful (PowderedSugarMill_view_5.dsm).
+[1460989570,3086383] Creating descriptor model (PowderedSugarMill_view_6.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460989575,1318305] Descriptor model creation successful (PowderedSugarMill_view_6.dsm).
+[1460989575,1321292] XML-file successfully created.
+[1460989575,1321416] Creating surface model.
+[1460989575,7177186] Surface model successfully created.
+[1460989575,7215717] Copying mesh file.
+[1460989575,7311461] Mesh file successfully copied.
+[1460989575,7312224] Copying texture-file of mesh.
+[1460989575,8208544] Texture file successfully copied.
+[1460989575,8210273] Output files creation done.

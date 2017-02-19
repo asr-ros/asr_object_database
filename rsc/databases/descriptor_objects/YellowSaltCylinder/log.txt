@@ -1,0 +1,21 @@
+[1460991871,7963455] Start creation.
+[1460991871,7963879] Creating descriptor model (YellowSaltCylinder_view_1.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460991876,9408305] Descriptor model creation successful (YellowSaltCylinder_view_1.dsm).
+[1460991876,9409487] Creating descriptor model (YellowSaltCylinder_view_2.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460991882,1790793] Descriptor model creation successful (YellowSaltCylinder_view_2.dsm).
+[1460991882,179188] Creating descriptor model (YellowSaltCylinder_view_3.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460991886,6603272] Descriptor model creation successful (YellowSaltCylinder_view_3.dsm).
+[1460991886,6604331] Creating descriptor model (YellowSaltCylinder_view_4.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460991891,3549228] Descriptor model creation successful (YellowSaltCylinder_view_4.dsm).
+[1460991891,3550289] Creating descriptor model (YellowSaltCylinder_view_5.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460991895,5214348] Descriptor model creation successful (YellowSaltCylinder_view_5.dsm).
+[1460991895,5215437] Creating descriptor model (YellowSaltCylinder_view_6.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460991900,4319694] Descriptor model creation successful (YellowSaltCylinder_view_6.dsm).
+[1460991900,4323552] XML-file successfully created.
+[1460991900,4323709] Creating surface model.
+[1460991900,8891208] Surface model successfully created.
+[1460991900,8925209] Copying mesh file.
+[1460991900,8939025] Mesh file successfully copied.
+[1460991900,8939192] Copying texture-file of mesh.
+[1460991900,9069843] Texture file successfully copied.
+[1460991900,9071803] Output files creation done.

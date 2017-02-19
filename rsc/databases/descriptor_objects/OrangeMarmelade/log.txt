@@ -1,0 +1,21 @@
+[1460990388,0263412] Start creation.
+[1460990388,0263796] Creating descriptor model (OrangeMarmelade_view_1.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460990391,7820969] Descriptor model creation successful (OrangeMarmelade_view_1.dsm).
+[1460990391,7822127] Creating descriptor model (OrangeMarmelade_view_2.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460990395,1352508] Descriptor model creation successful (OrangeMarmelade_view_2.dsm).
+[1460990395,1353576] Creating descriptor model (OrangeMarmelade_view_3.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460990398,7336316] Descriptor model creation successful (OrangeMarmelade_view_3.dsm).
+[1460990398,7337422] Creating descriptor model (OrangeMarmelade_view_4.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460990402,0874832] Descriptor model creation successful (OrangeMarmelade_view_4.dsm).
+[1460990402,0875931] Creating descriptor model (OrangeMarmelade_view_5.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460990405,7751279] Descriptor model creation successful (OrangeMarmelade_view_5.dsm).
+[1460990405,7752373] Creating descriptor model (OrangeMarmelade_view_6.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460990410,2117047] Descriptor model creation successful (OrangeMarmelade_view_6.dsm).
+[1460990410,2120035] XML-file successfully created.
+[1460990410,2120161] Creating surface model.
+[1460990410,9924483] Surface model successfully created.
+[1460990410,9960794] Copying mesh file.
+[1460990411,0009437] Mesh file successfully copied.
+[1460990411,0009956] Copying texture-file of mesh.
+[1460990411,0467629] Texture file successfully copied.
+[1460990411,047461] Output files creation done.

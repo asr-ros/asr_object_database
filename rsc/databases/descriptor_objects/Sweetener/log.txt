@@ -1,0 +1,13 @@
+[1460991065,2521412] Start creation.
+[1460991065,2521796] Creating descriptor model (Sweetener_view_1.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460991067,7305617] Descriptor model creation successful (Sweetener_view_1.dsm).
+[1460991067,7307076] Creating descriptor model (Sweetener_view_2.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460991070,1618264] Descriptor model creation successful (Sweetener_view_2.dsm).
+[1460991070,1620424] XML-file successfully created.
+[1460991070,1620564] Creating surface model.
+[1460991070,6978779] Surface model successfully created.
+[1460991070,7023673] Copying mesh file.
+[1460991070,7058439] Mesh file successfully copied.
+[1460991070,7058759] Copying texture-file of mesh.
+[1460991070,7387533] Texture file successfully copied.
+[1460991070,7393708] Output files creation done.

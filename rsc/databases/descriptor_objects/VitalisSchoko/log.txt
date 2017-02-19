@@ -1,0 +1,17 @@
+[1454335913,1962321] Start creation.
+[1454335913,19628] Creating descriptor model (VitalisSchoko_view_1.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1454335933,2018003] Descriptor model creation successful (VitalisSchoko_view_1.dsm).
+[1454335933,2019191] Creating descriptor model (VitalisSchoko_view_2.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1454335939,2726612] Descriptor model creation successful (VitalisSchoko_view_2.dsm).
+[1454335939,2727683] Creating descriptor model (VitalisSchoko_view_3.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1454335959,0937359] Descriptor model creation successful (VitalisSchoko_view_3.dsm).
+[1454335959,0938463] Creating descriptor model (VitalisSchoko_view_4.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1454335965,1077342] Descriptor model creation successful (VitalisSchoko_view_4.dsm).
+[1454335965,1079943] XML-file successfully created.
+[1454335965,1080074] Creating surface model.
+[1454335965,9443877] Surface model successfully created.
+[1454335965,9490395] Copying mesh file.
+[1454335965,9491408] Mesh file successfully copied.
+[1454335965,9491534] Copying texture-file of mesh.
+[1454335965,9501629] Texture file successfully copied.
+[1454335965,9501808] Output files creation done.

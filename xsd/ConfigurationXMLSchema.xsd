@@ -1,0 +1,18 @@
+<?xml version="1.0"  encoding="UTF-8" ?>
+<xs:schema targetNamespace="http://xml.ralfschleicher.de/asr_object_database/" xmlns="http://xml.ralfschleicher.de/asr_object_database/" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="configuration">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" name="database">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="uniqueName" type="xs:string" />
+              <xs:element name="basenameMatchPattern" type="xs:string" />
+              <xs:element name="objectDbRootFolder" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

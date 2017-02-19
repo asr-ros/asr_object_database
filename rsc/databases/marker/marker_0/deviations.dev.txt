@@ -1,0 +1,9 @@
+#Cupboard
+#Position: x,y,z
+0.0
+0.0
+0.0
+#Rotation: alpha, beta, gamma
+0.0
+0.0
+0.0

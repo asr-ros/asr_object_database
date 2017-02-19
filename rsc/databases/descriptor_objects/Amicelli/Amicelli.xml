@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object>
+	<name>Amicelli</name>
+	<surface_model>Amicelli_surfaceMdl.sfm</surface_model>
+	<mesh>Amicelli_Orig_tex.dae</mesh>
+	<rotation_model_type>1</rotation_model_type>
+	<model_orientation>0.0, 0.0, -1.0</model_orientation>
+	<diameter>0.162105</diameter>
+	<score3D>0.15</score3D>
+	<descriptor_models>
+		<descriptor_model>
+			<name>Amicelli_view_1.dsm</name>
+			<view_orientation>0, 0, -1</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>0</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-58, -123</corner_point>
+				<corner_point>61, -125</corner_point>
+				<corner_point>57, 124</corner_point>
+				<corner_point>-55, 125</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="1">0, -1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+		<descriptor_model>
+			<name>Amicelli_view_2.dsm</name>
+			<view_orientation>0.86599999999999999, 0, -0.5</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>0</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-61, -120</corner_point>
+				<corner_point>58, -122</corner_point>
+				<corner_point>54, 123</corner_point>
+				<corner_point>-60, 124</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="1">0, -1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+		<descriptor_model>
+			<name>Amicelli_view_3.dsm</name>
+			<view_orientation>0.86599999999999999, 0, 0.5</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>-10</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-64, -120</corner_point>
+				<corner_point>56, -120</corner_point>
+				<corner_point>55, 113</corner_point>
+				<corner_point>-54, 116</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="1">0, -1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+		<descriptor_model>
+			<name>Amicelli_view_4.dsm</name>
+			<view_orientation>0, 0, 1</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>-20</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-60, -124</corner_point>
+				<corner_point>45, -124</corner_point>
+				<corner_point>54, 118</corner_point>
+				<corner_point>-52, 117</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="1">0, -1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+		<descriptor_model>
+			<name>Amicelli_view_5.dsm</name>
+			<view_orientation>-0.86599999999999999, 0, 0.5</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>-20</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-63, -125</corner_point>
+				<corner_point>51, -129</corner_point>
+				<corner_point>56, 129</corner_point>
+				<corner_point>-49, 123</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="1">0, -1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+		<descriptor_model>
+			<name>Amicelli_view_6.dsm</name>
+			<view_orientation>-0.86599999999999999, 0, -0.5</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>-20</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-64, -124</corner_point>
+				<corner_point>42, -127</corner_point>
+				<corner_point>50, 120</corner_point>
+				<corner_point>-55, 126</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="1">0, -1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+	</descriptor_models>
+</object>
+

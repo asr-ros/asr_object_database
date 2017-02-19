@@ -1,0 +1,9 @@
+marker_frame: /map 
+pub_topic: /normal_generator/normals
+output_rel_path: /src/normal_generator_tool/normals.nv.txt
+pan: [-10, 10] #[min_angle,max_angle]
+tilt: [-30, 30] #[min_angle,max_angle]
+d_pan: 10
+d_tilt: 30
+base_vectors: [[0,0,-1]]
+publish_rate: 200

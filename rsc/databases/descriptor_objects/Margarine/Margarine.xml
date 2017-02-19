@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object>
+	<name>Margarine</name>
+	<surface_model>Margarine_surfaceMdl.sfm</surface_model>
+	<mesh>Margarine_Orig_tex.dae</mesh>
+	<rotation_model_type>0</rotation_model_type>
+	<model_orientation>0.0, 0.0, -1.0</model_orientation>
+	<diameter>0.141591</diameter>
+	<score3D>0.15</score3D>
+	<descriptor_models>
+		<descriptor_model>
+			<name>Margarine_view_1.dsm</name>
+			<view_orientation>0, 0, -1</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>0</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-121, -66</corner_point>
+				<corner_point>144, -70</corner_point>
+				<corner_point>148, 67</corner_point>
+				<corner_point>-135, 62</corner_point>
+			</bounding_box>
+		</descriptor_model>
+	</descriptor_models>
+</object>
+

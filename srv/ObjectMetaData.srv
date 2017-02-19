@@ -1,0 +1,9 @@
+string object_type
+string recognizer
+---
+string object_folder
+string object_mesh_resource
+geometry_msgs/Point[] normal_vectors
+float64[] deviations
+bool is_valid
+bool is_rotation_invariant

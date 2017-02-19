@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object>
+	<name>NutellaGo</name>
+	<surface_model>NutellaGo_surfaceMdl.sfm</surface_model>
+	<mesh>NutellaGo_Orig_tex.dae</mesh>
+	<rotation_model_type>1</rotation_model_type>
+	<model_orientation>0.0, 0.0, -1.0</model_orientation>
+	<diameter>0.110879</diameter>
+	<score3D>0.15</score3D>
+	<descriptor_models>
+		<descriptor_model>
+			<name>NutellaGo_view_1.dsm</name>
+			<view_orientation>0, 0, -1</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>0</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-90, -61</corner_point>
+				<corner_point>87, -63</corner_point>
+				<corner_point>82, 38</corner_point>
+				<corner_point>-90, 40</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="1">0, -1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+		<descriptor_model>
+			<name>NutellaGo_view_2.dsm</name>
+			<view_orientation>0, 0, 1</view_orientation>
+			<score2D>0.20000000000000001</score2D>
+			<use_color>0</use_color>
+			<vertical_texture_offset>0</vertical_texture_offset>
+			<horizontal_texture_offset>0</horizontal_texture_offset>
+			<invertible>1</invertible>
+			<bounding_box>
+				<corner_point>-91, -60</corner_point>
+				<corner_point>95, -61</corner_point>
+				<corner_point>91, 56</corner_point>
+				<corner_point>-83, 60</corner_point>
+			</bounding_box>
+			<rotation_axes>
+				<axis_1 angle="1">0, -1, 0</axis_1>
+			</rotation_axes>
+		</descriptor_model>
+	</descriptor_models>
+</object>
+

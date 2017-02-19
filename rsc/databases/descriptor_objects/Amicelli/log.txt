@@ -1,0 +1,21 @@
+[1460988620,1679275] Start creation.
+[1460988620,1679673] Creating descriptor model (Amicelli_view_1.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460988624,1844242] Descriptor model creation successful (Amicelli_view_1.dsm).
+[1460988624,1845396] Creating descriptor model (Amicelli_view_2.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460988628,0731671] Descriptor model creation successful (Amicelli_view_2.dsm).
+[1460988628,0732939] Creating descriptor model (Amicelli_view_3.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460988631,3880041] Descriptor model creation successful (Amicelli_view_3.dsm).
+[1460988631,3881123] Creating descriptor model (Amicelli_view_4.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460988635,3869596] Descriptor model creation successful (Amicelli_view_4.dsm).
+[1460988635,3870685] Creating descriptor model (Amicelli_view_5.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460988639,4284606] Descriptor model creation successful (Amicelli_view_5.dsm).
+[1460988639,4285688] Creating descriptor model (Amicelli_view_6.dsm) with params: depth = 8, fern-number = 25, patch-size = 17, min-scale = 0.6, max-scale = 1.3
+[1460988642,8830433] Descriptor model creation successful (Amicelli_view_6.dsm).
+[1460988642,8833265] XML-file successfully created.
+[1460988642,8833389] Creating surface model.
+[1460988643,6958451] Surface model successfully created.
+[1460988643,699084] Copying mesh file.
+[1460988643,70925] Mesh file successfully copied.
+[1460988643,7092948] Copying texture-file of mesh.
+[1460988643,7971032] Texture file successfully copied.
+[1460988643,7972827] Output files creation done.

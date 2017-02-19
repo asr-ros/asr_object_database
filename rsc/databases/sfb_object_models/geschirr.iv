@@ -1,0 +1,153 @@
+#Inventor V2.0 ascii
+Separator{
+	Transform{
+		translation 0 0 -0.5
+	}
+	File{
+		name "gabel.iv"
+	}
+}
+Separator{
+	Transform{
+		translation 0.43 0 -0.3
+	}
+	File {
+		name "loeffel_gross.iv"
+	}
+}
+Separator{
+	Transform{
+		translation 0.47 0 -0.35
+	}
+	File {
+		name "loeffel_klein.iv"
+	}
+}
+Separator{
+	Transform{
+		translation 0 0 -0.45
+	}
+	File{
+		name "messer.iv"
+	}
+}
+Separator{
+	Transform{
+		translation 0.05 0 -0.4
+	}
+	File{
+		name "becher.iv"
+	}
+}
+Separator{
+	Transform{
+		translation 0.04 0 -0.3
+	}
+	File{
+		name "becher_eckig.iv"
+	}
+}
+Separator{
+	Transform{
+		translation 0.6 0 -0.35
+	}
+	File{
+		name "eier_halter.iv"
+	}
+}
+Separator{
+	Transform{
+		translation 0.03 0 -0.2
+	}
+	File{
+		name "ketchup.iv"
+	}
+}
+Separator{
+	Transform{
+		translation 0.6 0 -0.5
+	}
+	File{
+		name "mess_becher.iv"
+	}
+}
+Separator{
+	Transform{
+		translation 0.1 0 -0.1
+	}
+	File{
+		name "schale_eckig.iv"	}
+}
+Separator{
+	Transform{
+		translation 0.2 0 -0.2
+	}
+	File{
+		name "schale_klein.iv"
+	}
+}
+Separator{
+	Transform{
+		translation 0.13 0 -0.3
+	}
+	File{
+		name "tasse_eckiger_henkel.iv"
+	}
+}
+Separator{
+	Transform{
+		translation 0.22 0 -0.08
+	}
+	File{
+		name "tasse_runder_henkel.iv"
+	}
+}
+Separator{
+	Transform{
+		translation 0.4 0 -0.15
+	}
+	File{
+		name "teller.iv"
+	}
+}
+Separator{
+	Transform{
+		translation 0.7 0 -0.2
+	}
+	File{
+		name "teller_eckig.iv"
+	}
+}
+Separator{
+	Transform{
+		translation 0.3 0 -0.35
+	}
+	File{
+		name "teller_tief.iv"
+	}
+}
+Separator{
+	Transform{
+		translation 0.53 0 -0.3
+	}
+	File{
+		name "barenmarke.iv"
+	}
+}
+Separator{
+	Transform{
+	#	translation 0.45 0.034 -0.3
+		translation 0.6265 0.034 -0.3755
+	}
+	File{
+		name "ei.iv"
+	}
+}
+Separator{
+	Transform{
+		translation 0.3 0 -0.5
+	}
+	File{
+		name "hoepfner.iv"
+	}
+}
