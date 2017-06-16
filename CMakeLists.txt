@@ -28,7 +28,7 @@ find_package(catkin REQUIRED COMPONENTS
   asr_xsd2cpp
   message_generation
 )
-message(WARNING "Object_database needs the packages 'assimp' and 'xerces' which do not provide .cmake files. Install them manually.")
+#message(WARNING "Object_database needs the packages 'assimp' and 'xerces' which do not provide .cmake files. Install them manually.")
 
 
 find_package(cmake_modules)
