@@ -32,7 +32,16 @@ find_package(catkin REQUIRED COMPONENTS
 
 
 find_package(cmake_modules)
-find_package(Eigen3 REQUIRED)
+
+#find Eigen (depends on ros distro):
+find_package(Eigen3)
+if(NOT EIGEN3_FOUND)
+  find_package(Eigen REQUIRED)
+  set(EIGEN3_INCLUDE_DIRS ${EIGEN_INCLUDE_DIRS})
+  set(EIGEN3_LIBRARIES ${EIGEN_LIBRARIES}) 
+else()
+  set(EIGEN3_INCLUDE_DIRS ${EIGEN3_INCLUDE_DIR})
+endif()
 
 find_package(Boost REQUIRED COMPONENTS
   system
@@ -61,7 +70,7 @@ catkin_package(
 
 include_directories(
   include
-  ${EIGEN3_INCLUDE_DIRS}
+  ${EIGEN3_INCLUDE_DIRS} 
   ${Boost_INCLUDE_DIRS}
   ${PROJECT_SOURCE_DIR}/include
   ${catkin_INCLUDE_DIRS}
