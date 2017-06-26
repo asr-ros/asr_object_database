@@ -32,7 +32,16 @@ find_package(catkin REQUIRED COMPONENTS
 
 
 find_package(cmake_modules)
-find_package(Eigen REQUIRED)
+
+#find Eigen (depends on ros distro):
+find_package(Eigen3)
+if(NOT EIGEN3_FOUND)
+  find_package(Eigen REQUIRED)
+  set(EIGEN3_INCLUDE_DIRS ${EIGEN_INCLUDE_DIRS})
+  set(EIGEN3_LIBRARIES ${EIGEN_LIBRARIES}) 
+else()
+  set(EIGEN3_INCLUDE_DIRS ${EIGEN3_INCLUDE_DIR})
+endif()
 
 find_package(Boost REQUIRED COMPONENTS
   system
@@ -56,12 +65,12 @@ catkin_package(
   INCLUDE_DIRS include
   CATKIN_DEPENDS roscpp rospy roslib geometry_msgs resource_retriever asr_ros_uri asr_xsd2cpp message_runtime std_msgs
   LIBRARIES ${PROJECT_NAME}_lib
-  DEPENDS Eigen Boost
+  DEPENDS EIGEN3 Boost
 )
 
 include_directories(
   include
-  ${Eigen_INCLUDE_DIRS} 
+  ${EIGEN3_INCLUDE_DIRS} 
   ${Boost_INCLUDE_DIRS}
   ${PROJECT_SOURCE_DIR}/include
   ${catkin_INCLUDE_DIRS}
@@ -89,7 +98,7 @@ add_dependencies(${PROJECT_NAME}_lib
 
 target_link_libraries(${PROJECT_NAME}_lib
   ${catkin_LIBRARIES}
-  ${Eigen_LIBRARIES}
+  ${EIGEN3_LIBRARIES}
   ${Boost_LIBRARIES}  
  # assimp
   /opt/ros/$ENV{ROS_DISTRO}/lib/libassimp_devel.so
@@ -103,7 +112,7 @@ add_executable(${PROJECT_NAME}
 target_link_libraries(${PROJECT_NAME} 
   ${PROJECT_NAME}_lib
   ${catkin_LIBRARIES}
-  ${Eigen_LIBRARIES}
+  ${EIGEN3_LIBRARIES}
   ${Boost_LIBRARIES}
 )
 
