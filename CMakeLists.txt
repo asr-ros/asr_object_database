@@ -49,6 +49,8 @@ find_package(Boost REQUIRED COMPONENTS
   regex
 )
 
+find_package(XercesC REQUIRED)
+
 add_service_files(DIRECTORY srv FILES
 	RecognizerList.srv
 	ObjectTypeList.srv
@@ -65,7 +67,7 @@ catkin_package(
   INCLUDE_DIRS include
   CATKIN_DEPENDS roscpp rospy roslib geometry_msgs resource_retriever asr_ros_uri asr_xsd2cpp message_runtime std_msgs
   LIBRARIES ${PROJECT_NAME}_lib
-  DEPENDS EIGEN3 Boost
+  DEPENDS EIGEN3 Boost XercesC
 )
 
 include_directories(
@@ -102,7 +104,7 @@ target_link_libraries(${PROJECT_NAME}_lib
   ${Boost_LIBRARIES}  
  # assimp
   /opt/ros/$ENV{ROS_DISTRO}/lib/libassimp_devel.so
-  /usr/lib/x86_64-linux-gnu/libxerces-c-3.1.so
+  ${XercesC_LIBRARIES}
 )
 FILE(GLOB_RECURSE HEADERS "include/object_database/*.h")
 add_executable(${PROJECT_NAME} 
