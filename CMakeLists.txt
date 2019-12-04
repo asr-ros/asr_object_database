@@ -81,11 +81,6 @@ include_directories(
   xsd_gen
 )
 
-if(EXISTS "${asr_xsd2cpp_SOURCE_DIR}/catkin_make.cmake")
-  include(${asr_xsd2cpp_SOURCE_DIR}/catkin_make.cmake)
-else()
-  include(${CMAKE_INSTALL_PREFIX}/${CATKIN_GLOBAL_SHARE_DESTINATION}/asr_xsd2cpp/catkin_make.cmake)
-endif()
 xsd2cpp()
 
 add_library(${PROJECT_NAME}_lib 
