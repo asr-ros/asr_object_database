@@ -1,7 +1,7 @@
 <package>
   <name>asr_object_database</name>
   <version>1.0.0</version>
-  <description>This package is used to store and provide objects and their information</description>
+  <description>This package is used to store and provide objects and their information which can be used by other packages like object recognizers</description>
   <author>Allgeyer Tobias, Aumann Florian, Borella Jocelyn, Braun Kai, Heizmann Heinrich, Heller Florian, Kasper Alexander, Marek Felix, Mehlhaus Jonas, Meißner Pascal, Schleicher Ralf, Stöckle Patrick, Walter Milena</author>
   <maintainer email="asr-ros@lists.kit.edu">Meißner Pascal</maintainer>
   <license>GPL</license>
